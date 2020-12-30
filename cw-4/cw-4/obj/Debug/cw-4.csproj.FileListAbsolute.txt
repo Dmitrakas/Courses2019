@@ -1,0 +1,7 @@
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\bin\Debug\cw-4.exe.config
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\bin\Debug\cw-4.exe
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\bin\Debug\cw-4.pdb
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\obj\Debug\cw-4.csprojAssemblyReference.cache
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\obj\Debug\cw-4.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\obj\Debug\cw-4.exe
+C:\Users\Компьютер\Desktop\TAT2019-master\cw-4\cw-4\obj\Debug\cw-4.pdb

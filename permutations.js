@@ -1,0 +1,1 @@
+a=process.argv;f=[];k=a.length;for(i=2;i<k;i++){s=a[i].split('').sort().join('');if(f[s]===undefined){f[s]=0}f[s]++}b=0;r="";for(m in f){if(f[m]>b){b=f[m];r=m}}for(i=2;i<k;i++){s=a[i].split('').sort().join('');if(s==r){console.log(a[i])}}
